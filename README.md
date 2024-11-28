@@ -1,0 +1,2 @@
+# Phishing Detection
+ •Proposed a multilayer model to detect and prevent phishing attacks. •- Utilized feature extraction techniques for identifying malicious URLs. •- Implemented machine learning algorithms for classification of phishing links. •- Combined heuristic analysis and real-time monitoring for accuracy improvement. •- Addressed scalability and efficiency for large-scale web applications.
