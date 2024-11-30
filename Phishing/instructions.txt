@@ -1,0 +1,12 @@
+1. If any issues with Virtual Environment just delete "venv" folder else just skip to point 3.
+2. Then Create new Virtual Environment with these code
+    a. python -m venv venv
+3. After Creating open your "CMD Terminal" for activating that venv. Dont use powershell !
+    b. venv\Scripts\activate
+4. You'll notice (venv) in your terminal which means you are in that venv.
+    example: (venv) C:\USER\Projects\MAJOR PROJECT\sms-spam-classifier-main
+5. Install the packages with this command (only once) if already installed before then no need
+    a. pip install -r requirements.txt
+6. Run the code with this command
+    a. python app.py
+Note: Renaming Folder Names will create issues with virtual Environment. If you face anything like no module errors then run step 5
